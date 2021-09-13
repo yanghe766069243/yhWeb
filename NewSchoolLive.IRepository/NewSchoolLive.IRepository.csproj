@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SqlSugarCore" Version="5.0.3.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewSchoolLive.IOC\NewSchoolLive.IOC.csproj" />
+    <ProjectReference Include="..\NewSchoolLive.Model\NewSchoolLive.Model.csproj" />
+  </ItemGroup>
+
+</Project>

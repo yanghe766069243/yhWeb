@@ -1,0 +1,13 @@
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\bin\Debug\netstandard2.1\NewSchoolLive.Common.deps.json
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\bin\Debug\netstandard2.1\NewSchoolLive.Common.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\bin\Debug\netstandard2.1\NewSchoolLive.Common.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\bin\Debug\netstandard2.1\NewSchoolLive.IOC.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\bin\Debug\netstandard2.1\NewSchoolLive.IOC.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.csproj.AssemblyReference.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.AssemblyInfoInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.AssemblyInfo.cs
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.csproj.CoreCompileInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.csproj.CopyComplete
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.Common\obj\Debug\netstandard2.1\NewSchoolLive.Common.pdb

@@ -1,0 +1,10 @@
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\bin\Debug\netstandard2.1\NewSchoolLive.DtoModel.deps.json
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\bin\Debug\netstandard2.1\NewSchoolLive.DtoModel.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\bin\Debug\netstandard2.1\NewSchoolLive.DtoModel.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\obj\Debug\netstandard2.1\NewSchoolLive.DtoModel.csproj.AssemblyReference.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\obj\Debug\netstandard2.1\NewSchoolLive.DtoModel.GeneratedMSBuildEditorConfig.editorconfig
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\obj\Debug\netstandard2.1\NewSchoolLive.DtoModel.AssemblyInfoInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\obj\Debug\netstandard2.1\NewSchoolLive.DtoModel.AssemblyInfo.cs
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\obj\Debug\netstandard2.1\NewSchoolLive.DtoModel.csproj.CoreCompileInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\obj\Debug\netstandard2.1\NewSchoolLive.DtoModel.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.DtoModel\obj\Debug\netstandard2.1\NewSchoolLive.DtoModel.pdb

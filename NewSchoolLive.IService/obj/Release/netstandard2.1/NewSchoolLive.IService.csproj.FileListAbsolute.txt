@@ -1,0 +1,13 @@
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\bin\Release\netstandard2.1\NewSchoolLive.IService.deps.json
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\bin\Release\netstandard2.1\NewSchoolLive.IService.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\bin\Release\netstandard2.1\NewSchoolLive.IService.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\bin\Release\netstandard2.1\NewSchoolLive.Model.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\bin\Release\netstandard2.1\NewSchoolLive.Model.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.csproj.AssemblyReference.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.GeneratedMSBuildEditorConfig.editorconfig
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.AssemblyInfoInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.AssemblyInfo.cs
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.csproj.CoreCompileInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.csproj.CopyComplete
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IService\obj\Release\netstandard2.1\NewSchoolLive.IService.pdb

@@ -1,0 +1,15 @@
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\bin\Release\netstandard2.1\NewSchoolLive.ServiceCollection.deps.json
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\bin\Release\netstandard2.1\NewSchoolLive.ServiceCollection.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\bin\Release\netstandard2.1\NewSchoolLive.ServiceCollection.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\bin\Release\netstandard2.1\NewSchoolLive.DtoModel.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\bin\Release\netstandard2.1\NewSchoolLive.IOC.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\bin\Release\netstandard2.1\NewSchoolLive.DtoModel.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\bin\Release\netstandard2.1\NewSchoolLive.IOC.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.csproj.AssemblyReference.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.GeneratedMSBuildEditorConfig.editorconfig
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.AssemblyInfoInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.AssemblyInfo.cs
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.csproj.CoreCompileInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.csproj.CopyComplete
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.ServiceCollection\obj\Release\netstandard2.1\NewSchoolLive.ServiceCollection.pdb

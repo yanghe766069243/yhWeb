@@ -1,0 +1,10 @@
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\bin\Release\netstandard2.1\NewSchoolLive.IOC.deps.json
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\bin\Release\netstandard2.1\NewSchoolLive.IOC.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\bin\Release\netstandard2.1\NewSchoolLive.IOC.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\obj\Release\netstandard2.1\NewSchoolLive.IOC.GeneratedMSBuildEditorConfig.editorconfig
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\obj\Release\netstandard2.1\NewSchoolLive.IOC.AssemblyInfoInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\obj\Release\netstandard2.1\NewSchoolLive.IOC.AssemblyInfo.cs
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\obj\Release\netstandard2.1\NewSchoolLive.IOC.csproj.CoreCompileInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\obj\Release\netstandard2.1\NewSchoolLive.IOC.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\obj\Release\netstandard2.1\NewSchoolLive.IOC.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.IOC\obj\Release\netstandard2.1\NewSchoolLive.IOC.csproj.AssemblyReference.cache

@@ -1,0 +1,779 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\yanghe\\git\\NewSchoolLive.Api\\NewSchoolLive.Api.csproj": {}
+  },
+  "projects": {
+    "G:\\yanghe\\git\\NewSchoolLive.Api\\NewSchoolLive.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.Api\\NewSchoolLive.Api.csproj",
+        "projectName": "NewSchoolLive.Api",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Api\\NewSchoolLive.Api.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\yanghe\\git\\NewSchoolLive.Common\\NewSchoolLive.Common.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Common\\NewSchoolLive.Common.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.IService\\NewSchoolLive.IService.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IService\\NewSchoolLive.IService.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.RabbitMQ\\NewSchoolLive.RabbitMQ.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.RabbitMQ\\NewSchoolLive.RabbitMQ.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.Repository\\NewSchoolLive.Repository.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Repository\\NewSchoolLive.Repository.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.ServiceCollection\\NewSchoolLive.ServiceCollection.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.ServiceCollection\\NewSchoolLive.ServiceCollection.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.Service\\NewSchoolLive.Service.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Service\\NewSchoolLive.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "SqlSugar.IOC": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.3.8, )"
+            },
+            "StackExchange.Redis.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "StackExchange.Redis.Extensions.Core": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "StackExchange.Redis.Extensions.Newtonsoft": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.Common\\NewSchoolLive.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.Common\\NewSchoolLive.Common.csproj",
+        "projectName": "NewSchoolLive.Common",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Common\\NewSchoolLive.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.50, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.DtoModel\\NewSchoolLive.DtoModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.DtoModel\\NewSchoolLive.DtoModel.csproj",
+        "projectName": "NewSchoolLive.DtoModel",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.DtoModel\\NewSchoolLive.DtoModel.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.DtoModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj",
+        "projectName": "NewSchoolLive.IOC",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj",
+        "projectName": "NewSchoolLive.IRepository",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.Model\\NewSchoolLive.Model.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Model\\NewSchoolLive.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.3.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.IService\\NewSchoolLive.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.IService\\NewSchoolLive.IService.csproj",
+        "projectName": "NewSchoolLive.IService",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IService\\NewSchoolLive.IService.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "G:\\yanghe\\git\\NewSchoolLive.Model\\NewSchoolLive.Model.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Model\\NewSchoolLive.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.3.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.Model\\NewSchoolLive.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.Model\\NewSchoolLive.Model.csproj",
+        "projectName": "NewSchoolLive.Model",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Model\\NewSchoolLive.Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.RabbitMQ\\NewSchoolLive.RabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.RabbitMQ\\NewSchoolLive.RabbitMQ.csproj",
+        "projectName": "NewSchoolLive.RabbitMQ",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.RabbitMQ\\NewSchoolLive.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.Repository\\NewSchoolLive.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.Repository\\NewSchoolLive.Repository.csproj",
+        "projectName": "NewSchoolLive.Repository",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Repository\\NewSchoolLive.Repository.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "G:\\yanghe\\git\\NewSchoolLive.Common\\NewSchoolLive.Common.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Common\\NewSchoolLive.Common.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "SqlSugar.IOC": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.3.8, )"
+            },
+            "StackExchange.Redis.Extensions.Core": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.ServiceCollection\\NewSchoolLive.ServiceCollection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.ServiceCollection\\NewSchoolLive.ServiceCollection.csproj",
+        "projectName": "NewSchoolLive.ServiceCollection",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.ServiceCollection\\NewSchoolLive.ServiceCollection.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.ServiceCollection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "G:\\yanghe\\git\\NewSchoolLive.DtoModel\\NewSchoolLive.DtoModel.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.DtoModel\\NewSchoolLive.DtoModel.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "StackExchange.Redis.Extensions.Core": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\yanghe\\git\\NewSchoolLive.Service\\NewSchoolLive.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\yanghe\\git\\NewSchoolLive.Service\\NewSchoolLive.Service.csproj",
+        "projectName": "NewSchoolLive.Service",
+        "projectPath": "G:\\yanghe\\git\\NewSchoolLive.Service\\NewSchoolLive.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\yanghe\\git\\NewSchoolLive.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IOC\\NewSchoolLive.IOC.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IRepository\\NewSchoolLive.IRepository.csproj"
+              },
+              "G:\\yanghe\\git\\NewSchoolLive.IService\\NewSchoolLive.IService.csproj": {
+                "projectPath": "G:\\yanghe\\git\\NewSchoolLive.IService\\NewSchoolLive.IService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.3.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

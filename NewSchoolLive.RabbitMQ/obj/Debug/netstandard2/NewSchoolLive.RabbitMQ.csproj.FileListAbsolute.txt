@@ -1,0 +1,10 @@
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\bin\Debug\netstandard2\NewSchoolLive.RabbitMQ.deps.json
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\bin\Debug\netstandard2\NewSchoolLive.RabbitMQ.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\bin\Debug\netstandard2\NewSchoolLive.RabbitMQ.pdb
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\obj\Debug\netstandard2\NewSchoolLive.RabbitMQ.csproj.AssemblyReference.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\obj\Debug\netstandard2\NewSchoolLive.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\obj\Debug\netstandard2\NewSchoolLive.RabbitMQ.AssemblyInfoInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\obj\Debug\netstandard2\NewSchoolLive.RabbitMQ.AssemblyInfo.cs
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\obj\Debug\netstandard2\NewSchoolLive.RabbitMQ.csproj.CoreCompileInputs.cache
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\obj\Debug\netstandard2\NewSchoolLive.RabbitMQ.dll
+G:\yanghe\NewProject\NewSchoolLive\NewSchoolLive.RabbitMQ\obj\Debug\netstandard2\NewSchoolLive.RabbitMQ.pdb
