@@ -1,0 +1,27 @@
+{
+  "name": "app.k12.htmltomathjax",
+  "version": "1.0.0",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "pm2:start": "pm2 start ecosystem.config.cjs",
+    "pm2:stop": "pm2 stop mathjax-service",
+    "pm2:reload": "pm2 reload mathjax-service",
+    "pm2:logs": "pm2 logs mathjax-service",
+    "pm2:status": "pm2 status"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "lru-cache": "^11.5.0",
+    "mathjax-full": "^3.2.1",
+    "sharp": "^0.34.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^10.4.0"
+  }
+}
